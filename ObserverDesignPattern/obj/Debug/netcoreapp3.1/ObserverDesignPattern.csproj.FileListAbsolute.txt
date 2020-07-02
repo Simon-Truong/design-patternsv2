@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.genruntimeconfig.cache
