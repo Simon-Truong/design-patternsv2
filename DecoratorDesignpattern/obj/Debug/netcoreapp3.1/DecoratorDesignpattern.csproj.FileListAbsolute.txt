@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\bin\Debug\netcoreapp3.1\DecoratorDesignpattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\DecoratorDesignpattern\obj\Debug\netcoreapp3.1\DecoratorDesignpattern.genruntimeconfig.cache
