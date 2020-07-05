@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\FactoryMethodDesignPattern\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattern.genruntimeconfig.cache
