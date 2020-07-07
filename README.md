@@ -17,5 +17,8 @@ Similar to the Simple Factory Design Pattern, it differs in that the factory its
 
 **Note**: When using this pattern, ensure we pass the factory to the object, we can then change this like the Strategy design pattern, in which we can exchange different factories as need be through composition
 
+## Factory Method Design Pattern (revisted)
+Another approach is to have an abstract class that contains an abstract method that is responsible for creating objects. Subclasses will inherit this abstract class, and will have their own implementation of creating objects. This explains the name of the pattern, as the method itself that is inherited will create the objects for the subclass to act upon
+
 ## Abstract Factory Design Pattern
 Identical to the Factory Method design pattern, except that the factory returns more than one _product_
