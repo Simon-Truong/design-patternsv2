@@ -22,3 +22,11 @@ Another approach is to have an abstract class that contains an abstract method t
 
 ## Abstract Factory Design Pattern
 Identical to the Factory Method design pattern, except that the factory returns more than one _product_
+
+## Singleton
+Singleton is a design pattern with the purpose to have one and only one object. This can be done with the SimpleSingleton implementation, however, this is **not** thread safe. We can make it thread safe with the following implementations:
+- Active Singleton: this implementation is not lazy, it will always have an _instance when it is being reffered
+- Lock Singleton: this singleton uses a lock to keep it thread safe
+- Mutex Singleton: this singleton uses a mutex to keep it thread safe
+
+Also includes singleton implementation using C#'s Lazy<T> class
