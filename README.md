@@ -17,16 +17,22 @@ Similar to the Simple Factory Design Pattern, it differs in that the factory its
 
 **Note**: When using this pattern, ensure we pass the factory to the object, we can then change this like the Strategy design pattern, in which we can exchange different factories as need be through composition
 
-## Factory Method Design Pattern (revisted)
+## Factory Method Design Pattern (revisited)
 Another approach is to have an abstract class that contains an abstract method that is responsible for creating objects. Subclasses will inherit this abstract class, and will have their own implementation of creating objects. This explains the name of the pattern, as the method itself that is inherited will create the objects for the subclass to act upon
 
 ## Abstract Factory Design Pattern
 Identical to the Factory Method design pattern, except that the factory returns more than one _product_
 
-## Singleton
+## Singleton Design Pattern
 Singleton is a design pattern with the purpose to have one and only one object. This can be done with the SimpleSingleton implementation, however, this is **not** thread safe. We can make it thread safe with the following implementations:
-- Active Singleton: this implementation is not lazy, it will always have an _instance when it is being reffered
+- Active Singleton: this implementation is not lazy, it will always have an _instance when it is being referred
 - Lock Singleton: this singleton uses a lock to keep it thread safe
 - Mutex Singleton: this singleton uses a mutex to keep it thread safe
 
 Also includes singleton implementation using C#'s Lazy<T> class
+
+## Command Design Pattern
+The Command design pattern focuses on encapsulating a request that will hold enough state to execute a behaviour from a receiver at a later time. What this means is each command will have a reference of their own receiver, which could be anything, and when they need to be executed, the command itself will know how to use the receiver. With the use of abstraction, we are able to decouple the invoker with the receivers, therefore, the invoke only needs to know that the command has an "execute" method, but it does not know how or what is being used. Only the command knows how to use the receiver. This design pattern is also capable of an undo mechanism, if we know how to use a receiver, we also know how to reverse the action. We can also create something called a macro command, this command will hold a reference of a collection of commands and when its execute method is called, it will loop through all commands and run its own execute method.
+
+## Null Object Design Pattern
+The Null Object design pattern is used to mitigate null object reference exceptions. This pattern works by being a placeholder of a desired object. Therefore it will have all the characteristics of a desired object, however, it will do nothing when using its methods/fields/properties.

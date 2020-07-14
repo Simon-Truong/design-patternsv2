@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.genruntimeconfig.cache
