@@ -36,3 +36,6 @@ The Command design pattern focuses on encapsulating a request that will hold eno
 
 ## Null Object Design Pattern
 The Null Object design pattern is used to mitigate null object reference exceptions. This pattern works by being a placeholder of a desired object. Therefore it will have all the characteristics of a desired object, however, it will do nothing when using its methods/fields/properties.
+
+## Adapter Design Pattern
+The Adapter design pattern allows the client to treat a incompatible interface as a target interface e.g client wants to use interface A but only interface B is available therefore, we use the Adapter design pattern. We create an intermediatory adapter between the two interfaces, so when the client uses interface A, it is secretly delegating to interface B.

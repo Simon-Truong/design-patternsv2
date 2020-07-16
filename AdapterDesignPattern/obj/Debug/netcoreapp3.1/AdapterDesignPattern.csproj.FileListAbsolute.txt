@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.genruntimeconfig.cache
