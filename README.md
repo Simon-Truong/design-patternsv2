@@ -41,4 +41,15 @@ The Null Object design pattern is used to mitigate null object reference excepti
 The Adapter design pattern allows the client to treat a incompatible interface as a target interface e.g client wants to use interface A but only interface B is available therefore, we use the Adapter design pattern. We create an intermediatory adapter between the two interfaces, so when the client uses interface A, it is secretly delegating to interface B.
 
 ## Facade Design Pattern
-A simple design pattern whose sole purpose is to simplify an exposed interface. The Facade design pattern focuses on providing a simple interface to the client, where it itself has references to the sub interfaces, so it will know how to run the business logic. Therefore, we achieve decoupling because the client doesn't know what is being called when calling the facade's methods, only the facade knows what to do with its references.
+A simple design pattern whose sole purpose is to simplify an exposed interface. The Facade design pattern focuses on providing a simple interface to the client, where it itself has references to the sub interfaces, so it will know how to run the business logic. Therefore, we achieve decoupling because the client doesn't know what is being called when calling the facade's methods, only the facade knows what to do with its references. This pattern practices the "Law of Demeter" or "Principle of Lease Knowledge" which states that within a function, the only objects that should be referred to are:
+- Objects from the object itself(class's instance fields/properties)
+- Objects provided as an argument
+- Objects instantiated in the method
+By following this principle, we remove further object dependencies, you must not call on object fields/methods after a method returns an object. This adds coupling, instead, we should create a method that deals with business logic associated with the returning object(wrapper class).  
+
+## Template Design Pattern
+The Template design pattern encourages code re-usability by providing a "template" for deriving classes. The template(base class) will contain the algorithm or sequence of methods to run, which it will provide some or no implementations. It is therefore up to the derived classes to determine what these implementations are. This pattern also utilizes "hooks" which are essentially optional methods to override, hence, the base class will have an implementation but the deriving class **can** change its behaviour if suitable. The base class will have 3 types of methods
+- readonly, which is defined by and only by the base class
+- abstract, deriving classes **must** override these methods and provide their own implementations
+- hooks, optional methods that can be overridden
+This pattern also practices the "Don't call me, I'll call you" principle in which focuses on the base class to call the method, and not the derived class. Essentially, this means that we should only use the method(algorithm) in the base class, which calls the methods in the derived classes

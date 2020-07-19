@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\bin\Debug\netcoreapp3.1\TemplateDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\TemplateDesignPattern\obj\Debug\netcoreapp3.1\TemplateDesignPattern.genruntimeconfig.cache
