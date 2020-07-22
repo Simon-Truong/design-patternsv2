@@ -53,3 +53,6 @@ The Template design pattern encourages code re-usability by providing a "templat
 - abstract, deriving classes **must** override these methods and provide their own implementations
 - hooks, optional methods that can be overridden
 This pattern also practices the "Don't call me, I'll call you" principle in which focuses on the base class to call the method, and not the derived class. Essentially, this means that we should only use the method(algorithm) in the base class, which calls the methods in the derived classes
+
+## Iterator Design Pattern
+The Iterator design pattern creates a common interface that allows the clients to iterate over a collection regardless of the collection type. What this means is that each class will support its own iterator, which is returned to the client and is used to iterate over its items. Therefore, by providing a common interface, and say for example the requirement is to merge the two collections(differently typed), then we can use one loop to iterate through both collections, as we can just call the commen interface's methods(HasNext() & Next())
