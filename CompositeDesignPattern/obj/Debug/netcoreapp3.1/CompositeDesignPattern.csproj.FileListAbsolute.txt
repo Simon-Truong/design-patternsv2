@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.genruntimeconfig.cache
