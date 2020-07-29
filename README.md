@@ -59,3 +59,6 @@ The Iterator design pattern creates a common interface that allows the clients t
 
 ## Composite Design Pattern
 The Composite design pattern treats collections and items the same. Composites(collection) and leaf nodes(single items) are treated the same by having them inherit a common interface, the component. The component will have default implementations, in which these default implementations throw the not implemented exception, as some methods does not make sense for leaf nodes and also for composites. Leaf nodes will handle their own method, such as print in the example implementation, but the composite will not only print their own information, but all their components in their collection, which can include other composites as well. Therefore, this design pattern is naturally recursive
+
+## State Design Pattern
+The State design pattern resembles closely to the Strategy design pattern. Their behaviour are closely related, in the fact they change the algorithm at run time, however, with the strategy pattern, we can swap out strategies of a single behaviour. In the State design pattern, a set of behaviour are updated at runtime depending on the state. This pattern relies heavily on composition, in which the `Context` can switch which state it is in depending on the work flow.
