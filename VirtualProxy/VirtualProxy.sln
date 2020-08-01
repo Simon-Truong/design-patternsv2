@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualProxy", "VirtualProxy.csproj", "{FE99B181-AA99-463A-8330-26BC740E5C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE99B181-AA99-463A-8330-26BC740E5C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE99B181-AA99-463A-8330-26BC740E5C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE99B181-AA99-463A-8330-26BC740E5C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE99B181-AA99-463A-8330-26BC740E5C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D08595E-6C33-43B9-B98C-D5ABBAAC4B77}
+	EndGlobalSection
+EndGlobal

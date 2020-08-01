@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.genruntimeconfig.cache
