@@ -71,3 +71,7 @@ There are multiple Proxy design patterns:
 3. Protection Proxy: a protection proxy controls access rights to the subject. The proxy will have contain additional logic when its methods are called, in order to determine whether the method of the actual subject be called or not
 
 *Note*: Proxy and Decorator design pattern are structurally the same, they have a IS-A and also a HAS-A relationship with the interface. However, the intent is different, decorators add behavior to classes, whereas proxies behave as a placeholder for the actual subject
+
+## Compound Design Pattern
+The Compound design pattern is the implementation of multiple design patterns to solve a problem
+
