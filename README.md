@@ -75,3 +75,6 @@ There are multiple Proxy design patterns:
 ## Compound Design Pattern
 The Compound design pattern is the implementation of multiple design patterns to solve a problem
 
+## Bridge Design Pattern
+Implementing the Bridge design pattern allows the abstraction and the implementation to be decoupled. This involves two abstract classes(or interfaces) in which one has a reference to the other. We can therefore have an abstraction, say letters, and its concrete implementations are A and B. We can then have another abstraction, say numbers, and its concrete implementations are 1 and 2. In this case, we can have either A with a reference to 1 or A with a reference to 2. The same is true with letter B. Ultimately we are provided with the following combinations: A1, A2, B1, B2. Different "Abstractions" can have different behaviour by using their "Implementations".
+

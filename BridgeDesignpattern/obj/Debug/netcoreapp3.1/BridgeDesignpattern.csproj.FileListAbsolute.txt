@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\bin\Debug\netcoreapp3.1\BridgeDesignpattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BridgeDesignpattern\obj\Debug\netcoreapp3.1\BridgeDesignpattern.genruntimeconfig.cache
