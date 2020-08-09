@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.genruntimeconfig.cache
