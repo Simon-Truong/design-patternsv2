@@ -83,3 +83,6 @@ The Builder design pattern provides a flexible solution for object creation. In 
 
 ## Chain of Responsibility Design Pattern
 The Chain of Responsibility design pattern provides a "workflow" of handlers that will process incoming message. Each handler is only aware of the next handler and it's implementation to handle the message. Furthermore, any time a handler processes the message, the chain is terminated and subsequent handlers will not proceed.  
+
+## Flyweight Design Pattern
+The Flyweight design pattern addresses the issue of producing a large amount of objects which are the same/share very similar properties. In this case, using the Flyweight design pattern will help reduce memory footprint, i.e if client needs an object, and it exists in the cache, then provide that particular object, if not, create a new object and register it into the cache. In this manner, the Flyweight behaves somewhat like the Singleton design pattern(when retrieving the same object).
