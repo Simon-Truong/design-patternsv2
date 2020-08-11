@@ -80,3 +80,6 @@ Implementing the Bridge design pattern allows the abstraction and the implementa
 
 ## Builder Design Pattern
 The Builder design pattern provides a flexible solution for object creation. In the case we create complex objects, sometimes we don't need certain properties. In this scenario, the object's constructor can include multiple parameters, however, if you don't need a certain property the instantiation could look something like this: new Object("a", "b", null, null, null, "f"). Therefore, in order to instantiate this object example, it is dependant on the order of the parameters that are supplied. By using the Builder design pattern, we can use the Builder interface to set individual properties one by one
+
+## Chain of Responsibility Design Pattern
+The Chain of Responsibility design pattern provides a "workflow" of handlers that will process incoming message. Each handler is only aware of the next handler and it's implementation to handle the message. Furthermore, any time a handler processes the message, the chain is terminated and subsequent handlers will not proceed.  

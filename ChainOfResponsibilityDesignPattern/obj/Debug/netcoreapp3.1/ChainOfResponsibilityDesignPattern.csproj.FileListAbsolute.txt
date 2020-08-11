@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\bin\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\ChainOfResponsibilityDesignPattern\obj\Debug\netcoreapp3.1\ChainOfResponsibilityDesignPattern.genruntimeconfig.cache
