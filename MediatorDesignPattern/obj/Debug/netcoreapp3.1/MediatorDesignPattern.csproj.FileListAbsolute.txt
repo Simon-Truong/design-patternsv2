@@ -1,0 +1,13 @@
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.exe
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.deps.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.runtimeconfig.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.runtimeconfig.dev.json
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\bin\Debug\netcoreapp3.1\MediatorDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.csprojAssemblyReference.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.AssemblyInfo.cs
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.dll
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.pdb
+C:\Users\SimonTruong\Downloads\ingenuous\design-patternsv2\MediatorDesignPattern\obj\Debug\netcoreapp3.1\MediatorDesignPattern.genruntimeconfig.cache
